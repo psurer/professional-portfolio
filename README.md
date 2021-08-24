@@ -5,9 +5,9 @@
 
 ## Links
 
-- [Repo](https://github.com/psurer/<project-name> "<professional-portolio> Repo")
+- [Repo](https://github.com/psurer/professional-portfolio "<professional-portolio> Repo")
 
-- [Live](<https://ps-professional-portfolio.herokuapp.com/> "Live View")
+- [Live](https://ps-professional-portfolio.herokuapp.com "Live View")
 
 ## Screenshots
 
