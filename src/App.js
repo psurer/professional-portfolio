@@ -8,7 +8,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 import likeminded from './assets/likeminded.png'
 import languagebarrier from './assets/languagebarrier.JPG'
-// import workdayscheduler from "./assets/workdayscheduler.JPG"
+import petmeup from "./assets/petmeup.png"
 // import booksearch from "./assets/booksearch.JPG";
 // import fitness from "./assets/fitnessapp.JPG";
 // import myfridge from "./assets/myfridge.JPG";
@@ -17,16 +17,23 @@ import languagebarrier from './assets/languagebarrier.JPG'
 const projects = [
     { 
         id:1,
+        name: "Pet Me Up",
+        picture: likeminded,
+        description:"A collaborative group planning app, streamlining the planning process with your colleagues, friends, and family ",
+        link: "https://github.com/vyncent-t/likeminded"
+    },
+    { 
+        id:2,
         name: "Like Minded",
         picture: likeminded,
         description:"A collaborative group planning app, streamlining the planning process with your colleagues, friends, and family ",
         link: "https://github.com/vyncent-t/likeminded"
     },
     {
-        id:2,
+        id:3,
         name: "The Language Barrier",
         picture: languagebarrier,
-        description: "An application that allows children to learn multiple langauges through an interactive matchmaking system",
+        description: "An application that allows children to learn multiple langauges through an interactive matchmaking game",
         link: "https://github.com/marlysco/language-barrier"
     },
     {
