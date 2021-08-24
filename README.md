@@ -1,7 +1,7 @@
 
 # Professional Portfolio
 
-### Portfolio to display your skills, experience, education and more. SPA using React. 
+### Portfolio to display your tech skills, showcase your projects, work experience, education and more. SPA using React. 
 
 ## Links
 
