@@ -1,7 +1,7 @@
 
-<h1 align="center"><Professional Portfolio></h1>
+# Professional Portfolio
 
-<p align="center"><Portfolio to display your skills, experience, education and more. SPA using React ></p>
+### Portfolio to display your skills, experience, education and more. SPA using React. 
 
 ## Links
 
