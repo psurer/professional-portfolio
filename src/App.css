@@ -1,0 +1,95 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.myname {
+  font-size: 30px;
+}
+.font {
+  font-family: monospace;
+}
+.font-smaller {
+  font-size: 30px;
+}
+.portfolio {
+  align-content: center;
+  font-family: monospace;
+  font-size:25px;
+  margin-top:25px;
+  margin-left: 10.1%; 
+}
+
+.project-container {
+  border-color:rgb(193, 198, 204);
+  border-style:solid;
+  margin: 10px;
+  border-radius: 5%;
+}
+.small {
+  font-size:15px;
+  margin-bottom: 10px;;
+}
+
+.icon {
+ margin-left: 55px;;
+ size: 35px;
+}
+
+.connect {
+  margin-left: -1%;
+  margin-top:50px;
+}
+.margin {
+  margin-left: 35%;
+}
+
+.margin-icon {
+  margin-left: 48%
+}
+
+.footer {
+  margin-bottom: -850px;
+}
+.info {
+  margin-right: 30px;
+  margin-left: -80px;
+}
+
+.biginfo {
+  width: 100%;
+}
