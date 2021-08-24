@@ -18,23 +18,23 @@ const projects = [
     { 
         id:1,
         name: "Pet Me Up",
-        picture: likeminded,
-        description:"A collaborative group planning app, streamlining the planning process with your colleagues, friends, and family ",
-        link: "https://github.com/vyncent-t/likeminded"
+        picture: petmeup,
+        description:"Pet Me Up offers: CRM for vet clinics to manage their clients. A streamlined user experience, users can login to their account, or sign up, register their pets, keeping track of upcoming appointments with their vet, manage their pets health, and book appointments on the fly.   ",
+        link: "hhttps://github.com/psurer/pet-me-up"
     },
     { 
         id:2,
         name: "Like Minded",
         picture: likeminded,
         description:"A collaborative group planning app, streamlining the planning process with your colleagues, friends, and family ",
-        link: "https://github.com/vyncent-t/likeminded"
+        link: "https://github.com/psurer/likeminded"
     },
     {
         id:3,
         name: "The Language Barrier",
         picture: languagebarrier,
         description: "An application that allows children to learn multiple langauges through an interactive matchmaking game",
-        link: "https://github.com/marlysco/language-barrier"
+        link: "https://github.com/psurer/language-barrier"
     },
     {
         // id:3,
