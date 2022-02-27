@@ -17,7 +17,7 @@ function About() {
             <h1 className={"display-8 fst-italic text-header font-smaller "}>About me</h1>
             <p className={"my-6 lead text-dark fw-bold"}>
                 Hi, I'm Priscilla Sürereker, I am Inovative, adaptible, curious, quick-study, and I am eager to learn new technologies.
-                I just graduated with the University of Miami's Full Stack Engineering Program, and am looking for work in my new field as a full-stack dev.
+                I recently graduated with the University of Miami's Full Stack Engineering Program, and am looking for work in my new field as a junior full-stack dev.
             </p>
             <h1 className={"display-8 fst-italic text-header font-smaller"}>Technologies:</h1>
             <div className={"py-1 mt-auto text-dark text-center"}>

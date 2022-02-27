@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500,700&display=swap');
+
+body
+{
+font-family: 'Raleway';
+}
+
 .App {
   text-align: center;
+  display: flex;
+
 }
 
 .App-logo {
@@ -26,6 +35,33 @@
 
 .App-link {
   color: #61dafb;
+}
+
+nav
+{
+padding:60px 30px 0px 30px ;
+flex:var(--sidebar-flex);
+background: rgb(80, 111, 237);
+background: linear-gradient(180deg, rgb(79, 89, 237) 50%, rgba(132,124,252,1) 80%);
+}
+
+nav ul
+{
+  font-size:var(--fontsize-nav) ;
+  text-align: center;
+  list-style-type: none;
+  text-decoration: none;
+  color: white !important;
+}
+
+nav ul li
+{
+  margin:40px;
+}
+
+.active
+{
+font-weight: bolder;
 }
 
 @keyframes App-logo-spin {
